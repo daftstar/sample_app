@@ -27,6 +27,9 @@ Things you may want to cover:
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 
+</br>
 
 http://www.railstutorial.org/book/static_pages#sec-first_tests
-Listing 3.3
+</br>
+Completed up to 3.5 created contact us page w/ passing tests
+05/11/14
